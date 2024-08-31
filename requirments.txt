@@ -1,0 +1,31 @@
+torch == 2.3.1
+transformers == 4.41.2
+accelerate == 0.31.0 
+bitsandbytes == 0.43.1
+langchain == 0.2.11
+langchain-google-genai #== 1.0.8
+langchain-google-vertexai
+sentence-transformers == 2.7.0
+faiss-gpu == 1.7.2
+openpyxl == 3.1.4 
+pacmap == 0.7.3 
+datasets == 2.20.0 
+langchain-community == 0.2.0
+langchain_openai == 0.1.7
+
+#ragatouille == 0.0.8
+python-dotenv
+pypdf == 4.2.0
+googlesearch_python == 1.2.4
+duckduckgo_search == 6.1.7
+
+nest_asyncio == 1.6.0
+playwright == 1.44.0
+
+einops == 0.8.0
+flash-attn
+ctransformers == 0.2.27
+
+pdfminer.six
+
+neo4j == 5.22.0
