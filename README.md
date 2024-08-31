@@ -17,3 +17,5 @@ This project is a Retrieval Augmented Generation (RAG) system designed to parse 
 ### Use Cases
 Interacting with your PDF documents   
 General Knowledge Queries
+
+### Note: Might need to correct paths in the project files for your environment directory structure 
