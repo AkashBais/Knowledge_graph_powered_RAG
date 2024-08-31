@@ -14,5 +14,5 @@ Knowledge Graph Integration: Utilizes the Knowledge Graph to parse and understan
 Information Synthesis: Analyzes and summarizes the gathered information to provide a coherent response.
 Response Generation: Delivers a personalized and concise answer to the user’s query.
 ### Use Cases
-Interacting with your PDF documents
+Interacting with your PDF documents and
 General Knowledge Queries
